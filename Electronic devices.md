@@ -11,7 +11,7 @@ DeviceMaster is an all-in-one tool designed to help users manage and monitor the
 -   **Real-time Monitoring**: Track your device's performance, including battery levels🔋, CPU usage, and 🌡️.
 -   **Alert Notifications**: Receive alerts when critical device conditions occur, like overheating or low battery🪫.
 -   **Device Integration**: Connect multiple devices and monitor them from a single dashboard.
--   **Historical Data**: View historical performance data and trends to better understand device usage over time.
+-   **Historical Data**: View historical performance data ~~strikethrough text~~and trends to better understand device usage over time.
 -   **Customizable Dashboard**: Personalize the user interface to display the metrics and data that matter most to you.
 
 ![enter image description here](https://imgur.com/vKsYywd.png)
@@ -108,5 +108,5 @@ DeviceMaster integrates with various productivity and communication tools. Below
 
 > Written with [StackEdit](https://stackedit.io/).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4MzIyMTE5OF19
+eyJoaXN0b3J5IjpbMTczMzc2MTU2MCwtNzgzMjIxMTk4XX0=
 -->
